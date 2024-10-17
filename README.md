@@ -81,6 +81,9 @@ Ensure you have Python 3.x installed on your machine.
 - **SQLite**: Default database used in development
 - **Python**: Core programming language
 
+## Video Tutorial
+[Youtube Video](https://www.youtube.com/watch?v=6OlILeP9GKg&list=PL-2EBeDYMIbSBjHGYJYl1WLUT-tbCLHOb&index=1)
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for suggestions.
